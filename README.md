@@ -1,2 +1,4 @@
-# ToDoList
-A Simple To Do List written in Java
+  ______________________________________
+      A ToDoList by Houman Hafez
+    Please Always download it as a zip
+  ______________________________________
