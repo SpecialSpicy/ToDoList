@@ -5,7 +5,7 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-//A Class with all the function (first we need to make a new Arraylist and a txt file to save all the assignments)
+//A Class with all the functions (first we need to make a new Arraylist and a txt file to save all the assignments)
 public class ToDoList {
   private ArrayList<String> tasks = new ArrayList<>();
   private File file = new File("tasks.txt");
