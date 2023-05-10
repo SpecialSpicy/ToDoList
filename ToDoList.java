@@ -9,7 +9,7 @@ import java.util.Scanner;
 public class ToDoList {
   private ArrayList<String> tasks = new ArrayList<>();
   private File file = new File("tasks.txt");
-
+ 
   
   //loades the private void class from below 
   public ToDoList() {
